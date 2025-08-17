@@ -30,10 +30,11 @@ A simple **HTML/CSS/JavaScript** quiz app that runs in the browser. Users can an
 - Portfolio: [Not yet made](#)  
 
 ## 📮 Contact
-- LinkedIn: [linkedin.com/in/codebyadib](linkedin.com/in/codebyadib)  
-- Facebook: [facebook.com/codebyadibdev](facebook.com/codebyadibdev)  
+- LinkedIn: [linkedin.com/in/codebyadib](https://www.linkedin.com/in/codebyadib)  
+- Facebook: [facebook.com/codebyadibdev](https://www.facebook.com/codebyadibdev)  
 
 ## ✉️ Email
 - Primary: dev.codebyadib@gmail.com
+
 
 
